@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'garantiir-app';
   src:
-    url('fonts/garantiir-app.ttf?wjig1c') format('truetype'),
-    url('fonts/garantiir-app.woff?wjig1c') format('woff'),
-    url('fonts/garantiir-app.svg?wjig1c#garantiir-app') format('svg');
+    url('garantiir-app.ttf?wjig1c') format('truetype'),
+    url('garantiir-app.woff?wjig1c') format('woff'),
+    url('garantiir-app.svg?wjig1c#garantiir-app') format('svg');
   font-weight: normal;
   font-style: normal;
 }
