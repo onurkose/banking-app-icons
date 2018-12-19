@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'banking-app';
   src:
-    url('banking-app.ttf?s265rb') format('truetype'),
-    url('banking-app.woff?s265rb') format('woff'),
-    url('banking-app.svg?s265rb#banking-app') format('svg');
+    url('fonts/banking-app.ttf?tpxtxt') format('truetype'),
+    url('fonts/banking-app.woff?tpxtxt') format('woff'),
+    url('fonts/banking-app.svg?tpxtxt#banking-app') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -23,14 +23,14 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-settings:before {
-  content: "\e91e";
-}
 .icon-newspaper-original:before {
   content: "\e91c";
 }
 .icon-takvim:before {
   content: "\e91d";
+}
+.icon-settings:before {
+  content: "\e91e";
 }
 .icon-cloud-download:before {
   content: "\e900";

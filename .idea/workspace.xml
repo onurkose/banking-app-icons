@@ -35,15 +35,6 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/icons/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="79">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
@@ -118,11 +109,6 @@
               <item name="banking-app-icons" type="cbb8eebc:String" user="banking-app-icons" />
               <item name=".idea" type="cbb8eebc:String" user=".idea" />
             </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="banking-app-icons" type="cbb8eebc:String" user="banking-app-icons" />
-              <item name="icons" type="cbb8eebc:String" user="icons" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -168,7 +154,7 @@
       <workItem from="1545062899896" duration="31000" />
       <workItem from="1545065870710" duration="2143000" />
       <workItem from="1545205916321" duration="825000" />
-      <workItem from="1545220879784" duration="23000" />
+      <workItem from="1545220879784" duration="325000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <created>1544900360171</created>
@@ -240,11 +226,18 @@
       <option name="project" value="LOCAL" />
       <updated>1545206140448</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="updated some">
+      <created>1545220912302</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1545220912302</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5436000" />
+    <option name="totallyTimeSpent" value="5738000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="0" width="1920" height="1080" extended-state="6" />
@@ -373,15 +366,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/icons/banking-app.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/icons/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="79">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icons/banking-app.svg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
