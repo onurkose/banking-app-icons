@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'banking-app';
   src:
-    url('fonts/banking-app.ttf?tpxtxt') format('truetype'),
-    url('fonts/banking-app.woff?tpxtxt') format('woff'),
-    url('fonts/banking-app.svg?tpxtxt#banking-app') format('svg');
+    url('banking-app.ttf?tpxtxt') format('truetype'),
+    url('banking-app.woff?tpxtxt') format('woff'),
+    url('banking-app.svg?tpxtxt#banking-app') format('svg');
   font-weight: normal;
   font-style: normal;
 }
