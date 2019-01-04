@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'banking-app';
   src:
-    url('banking-app.ttf?tpxtxt') format('truetype'),
-    url('banking-app.woff?tpxtxt') format('woff'),
-    url('banking-app.svg?tpxtxt#banking-app') format('svg');
+    url('banking-app.ttf?q7gms6') format('truetype'),
+    url('banking-app.woff?q7gms6') format('woff'),
+    url('banking-app.svg?q7gms6#banking-app') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -23,91 +23,82 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-newspaper-original:before {
-  content: "\e91c";
-}
-.icon-takvim:before {
+.icon-settings:before {
   content: "\e91d";
 }
-.icon-settings:before {
-  content: "\e91e";
-}
-.icon-cloud-download:before {
+.icon-takvim:before {
   content: "\e900";
 }
-.icon-email:before {
+.icon-newspaper:before {
+  content: "\e914";
+}
+.icon-cloud-download:before {
   content: "\e901";
 }
 .icon-file-audio:before {
-  content: "\e902";
-}
-.icon-file-pdf:before {
   content: "\e903";
 }
-.icon-file-spreadsheet:before {
+.icon-file-pdf:before {
   content: "\e904";
 }
-.icon-file-video:before {
+.icon-file-spreadsheet:before {
   content: "\e905";
 }
-.icon-folder-add:before {
+.icon-file-video:before {
   content: "\e906";
 }
-.icon-folder-remove:before {
+.icon-folder-add:before {
   content: "\e907";
 }
-.icon-folder:before {
+.icon-folder-remove:before {
   content: "\e908";
 }
-.icon-graph-bar:before {
+.icon-folder:before {
   content: "\e909";
 }
-.icon-graph-line:before {
+.icon-graph-bar:before {
   content: "\e90a";
 }
-.icon-heart-line:before {
+.icon-graph-line:before {
   content: "\e90b";
 }
-.icon-heart-solid:before {
+.icon-heart-line:before {
   content: "\e90c";
 }
-.icon-list:before {
+.icon-heart-solid:before {
   content: "\e90d";
 }
-.icon-media-pause:before {
+.icon-list:before {
   content: "\e90e";
 }
-.icon-media-play:before {
+.icon-media-pause:before {
   content: "\e90f";
 }
-.icon-media-stop:before {
+.icon-media-play:before {
   content: "\e910";
 }
-.icon-media:before {
+.icon-media-stop:before {
   content: "\e911";
 }
-.icon-mic:before {
+.icon-media:before {
   content: "\e912";
 }
-.icon-newspaper:before {
+.icon-mic:before {
   content: "\e913";
 }
 .icon-phone-message:before {
-  content: "\e914";
-}
-.icon-phone:before {
   content: "\e915";
 }
-.icon-sound-off:before {
+.icon-phone:before {
   content: "\e916";
 }
-.icon-sound-on:before {
+.icon-sound-off:before {
   content: "\e917";
 }
-.icon-trash:before {
+.icon-sound-on:before {
   content: "\e918";
 }
-.icon-user:before {
+.icon-trash:before {
   content: "\e919";
 }
 .icon-zoom-in:before {
@@ -115,4 +106,10 @@
 }
 .icon-zoom-out:before {
   content: "\e91b";
+}
+.icon-user:before {
+  content: "\e91c";
+}
+.icon-email:before {
+  content: "\e902";
 }
