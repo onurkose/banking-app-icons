@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03de04cd-3004-4dcc-83be-14483c22fe84" name="Default" comment="bigger sizes">
+    <list default="true" id="03de04cd-3004-4dcc-83be-14483c22fe84" name="Default" comment="graph icon added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/icons/banking-app.svg" beforeDir="false" afterPath="$PROJECT_DIR$/icons/banking-app.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/icons/banking-app.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/icons/banking-app.ttf" afterDir="false" />
@@ -26,7 +26,7 @@
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -67,22 +67,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="banking-app-icons" type="b2602c69:ProjectViewProjectNode" />
-              <item name="banking-app-icons" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="banking-app-icons" type="b2602c69:ProjectViewProjectNode" />
-              <item name="banking-app-icons" type="462c0819:PsiDirectoryNode" />
-              <item name="icons" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -94,6 +78,22 @@
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="banking-app-icons" type="cbb8eebc:String" user="banking-app-icons" />
               <item name=".idea" type="cbb8eebc:String" user=".idea" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="banking-app-icons" type="b2602c69:ProjectViewProjectNode" />
+              <item name="banking-app-icons" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="banking-app-icons" type="b2602c69:ProjectViewProjectNode" />
+              <item name="banking-app-icons" type="462c0819:PsiDirectoryNode" />
+              <item name="icons" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -143,7 +143,8 @@
       <workItem from="1545220879784" duration="935000" />
       <workItem from="1545386682342" duration="631000" />
       <workItem from="1546590498210" duration="228000" />
-      <workItem from="1546592316809" duration="36000" />
+      <workItem from="1546592316809" duration="146000" />
+      <workItem from="1546602901655" duration="39000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <created>1544900360171</created>
@@ -243,17 +244,24 @@
       <option name="project" value="LOCAL" />
       <updated>1546590583564</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="graph icon added">
+      <created>1546592367589</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1546592367589</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7243000" />
+    <option name="totallyTimeSpent" value="7392000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="0" width="1920" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2515625" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2543444" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -298,7 +306,8 @@
     <MESSAGE value="initial" />
     <MESSAGE value="updated some" />
     <MESSAGE value="bigger sizes" />
-    <option name="LAST_COMMIT_MESSAGE" value="bigger sizes" />
+    <MESSAGE value="graph icon added" />
+    <option name="LAST_COMMIT_MESSAGE" value="graph icon added" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -332,9 +341,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/icons/banking-app.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/icons/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -356,10 +362,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/icons/banking-app.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
