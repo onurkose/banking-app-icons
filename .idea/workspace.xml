@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03de04cd-3004-4dcc-83be-14483c22fe84" name="Default" comment="radio check icons">
+    <list default="true" id="03de04cd-3004-4dcc-83be-14483c22fe84" name="Default" comment="lang icons">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icons/banking-app.svg" beforeDir="false" afterPath="$PROJECT_DIR$/icons/banking-app.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icons/banking-app.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/icons/banking-app.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icons/banking-app.woff" beforeDir="false" afterPath="$PROJECT_DIR$/icons/banking-app.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icons/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/icons/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icons/style.styl" beforeDir="false" afterPath="$PROJECT_DIR$/icons/style.styl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icons/variables.styl" beforeDir="false" afterPath="$PROJECT_DIR$/icons/variables.styl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -158,7 +152,7 @@
       <workItem from="1547471031951" duration="690000" />
       <workItem from="1547539272368" duration="1940000" />
       <workItem from="1547719203479" duration="18000" />
-      <workItem from="1547733384845" duration="60000" />
+      <workItem from="1547733384845" duration="84000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <created>1544900360171</created>
@@ -293,11 +287,18 @@
       <option name="project" value="LOCAL" />
       <updated>1547636457963</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="lang icons">
+      <created>1547733459321</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1547733459321</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10519000" />
+    <option name="totallyTimeSpent" value="10543000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="688" extended-state="0" />
@@ -351,7 +352,8 @@
     <MESSAGE value="graph icon added" />
     <MESSAGE value="fullscreen added" />
     <MESSAGE value="radio check icons" />
-    <option name="LAST_COMMIT_MESSAGE" value="radio check icons" />
+    <MESSAGE value="lang icons" />
+    <option name="LAST_COMMIT_MESSAGE" value="lang icons" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
