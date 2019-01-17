@@ -1,6 +1,6 @@
 {
   "name": "banking-app-icons",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "description": "Just a custom icons set plugin for Quasar Framework",
   "main": "custom-icons.js",
   "scripts": {

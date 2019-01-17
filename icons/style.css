@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'banking-app';
   src:
-    url('banking-app.ttf?j8i1ld') format('truetype'),
-    url('banking-app.woff?j8i1ld') format('woff'),
-    url('banking-app.svg?j8i1ld#banking-app') format('svg');
+    url('banking-app.ttf?348kjt') format('truetype'),
+    url('banking-app.woff?348kjt') format('woff'),
+    url('banking-app.svg?348kjt#banking-app') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -23,20 +23,26 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-english:before {
+  content: "\e906";
+}
+.icon-turkish:before {
+  content: "\e904";
+}
 .icon-mobile_search:before {
-  content: "\e920";
+  content: "\e922";
 }
 .icon-menu:before {
-  content: "\e91f";
+  content: "\e921";
 }
 .icon-graph:before {
-  content: "\e91e";
+  content: "\e91f";
 }
 .icon-haber:before {
-  content: "\e914";
+  content: "\e920";
 }
 .icon-settings:before {
-  content: "\e91d";
+  content: "\e91e";
 }
 .icon-takvim:before {
   content: "\e900";
@@ -48,37 +54,37 @@
   content: "\e903";
 }
 .icon-file-pdf:before {
-  content: "\e904";
-}
-.icon-file-spreadsheet:before {
   content: "\e905";
 }
-.icon-file-video:before {
-  content: "\e906";
-}
-.icon-folder-add:before {
-  content: "\e907";
-}
-.icon-folder-remove:before {
-  content: "\e908";
-}
-.icon-folder:before {
-  content: "\e909";
-}
-.icon-graph-bar:before {
+.icon-file-spreadsheet:before {
   content: "\e90a";
 }
-.icon-graph-line:before {
+.icon-file-video:before {
+  content: "\e907";
+}
+.icon-folder-add:before {
+  content: "\e908";
+}
+.icon-folder-remove:before {
+  content: "\e909";
+}
+.icon-folder:before {
   content: "\e90b";
 }
-.icon-heart-line:before {
+.icon-graph-bar:before {
   content: "\e90c";
 }
-.icon-heart-solid:before {
+.icon-graph-line:before {
   content: "\e90d";
 }
-.icon-list:before {
+.icon-heart-line:before {
   content: "\e90e";
+}
+.icon-heart-solid:before {
+  content: "\e914";
+}
+.icon-list:before {
+  content: "\e91d";
 }
 .icon-media-pause:before {
   content: "\e90f";
