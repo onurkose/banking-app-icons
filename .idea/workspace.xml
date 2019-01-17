@@ -3,6 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="03de04cd-3004-4dcc-83be-14483c22fe84" name="Default" comment="lang icons">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/banking-app.svg" beforeDir="false" afterPath="$PROJECT_DIR$/icons/banking-app.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/banking-app.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/icons/banking-app.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/banking-app.woff" beforeDir="false" afterPath="$PROJECT_DIR$/icons/banking-app.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/icons/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/style.styl" beforeDir="false" afterPath="$PROJECT_DIR$/icons/style.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/variables.styl" beforeDir="false" afterPath="$PROJECT_DIR$/icons/variables.styl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -17,15 +23,19 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/icons/banking-app.svg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/icons/variables.styl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="22" selection-start-column="22" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -47,9 +57,9 @@
         <option value="$PROJECT_DIR$/custom-icons.js" />
         <option value="$PROJECT_DIR$/icons/garantiir-app.svg" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/icons/variables.styl" />
-        <option value="$PROJECT_DIR$/icons/style.css" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/icons/style.css" />
+        <option value="$PROJECT_DIR$/icons/variables.styl" />
       </list>
     </option>
   </component>
@@ -152,7 +162,7 @@
       <workItem from="1547471031951" duration="690000" />
       <workItem from="1547539272368" duration="1940000" />
       <workItem from="1547719203479" duration="18000" />
-      <workItem from="1547733384845" duration="84000" />
+      <workItem from="1547733384845" duration="709000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <created>1544900360171</created>
@@ -294,11 +304,18 @@
       <option name="project" value="LOCAL" />
       <updated>1547733459321</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="lang icons">
+      <created>1547733473606</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1547733473606</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10543000" />
+    <option name="totallyTimeSpent" value="11168000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="688" extended-state="0" />
@@ -380,20 +397,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/icons/variables.styl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/icons/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/icons/style.styl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -411,10 +414,24 @@
     <entry file="file://$PROJECT_DIR$/icons/banking-app.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/icons/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icons/variables.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" selection-start-column="22" selection-end-column="22" />
         </state>
       </provider>
     </entry>
